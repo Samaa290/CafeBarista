@@ -23,6 +23,11 @@ nav a {
     color: white;
     margin: 15px;
     text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #3e2723;
 }
 
 section {

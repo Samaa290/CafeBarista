@@ -45,3 +45,8 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+#promociones {
+    background-color: #fce4c7;
+    border: 1px solid #a67b5b;
+}

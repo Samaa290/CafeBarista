@@ -33,11 +33,14 @@ nav a:hover {
 section {
     background-color: white;
     margin: 20px;
-    padding: 15px;
+    padding: 20px;
+    border: 1px solid #d6c0aa;
+    border-radius: 8px;
 }
 
 h2 {
     color: #6f4e37;
+    text-align: center;
 }
 
 li {
